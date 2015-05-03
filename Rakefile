@@ -3,5 +3,5 @@
 task :default => :run
 
 task :run do
-  require './hello'
+  require '../hello'
 end
